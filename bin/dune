@@ -1,4 +1,4 @@
 (executable
  (public_name omime_sniff)
  (name main)
- (libraries omime_sniff base))
+ (libraries base))
