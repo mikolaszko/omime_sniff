@@ -19,7 +19,7 @@
  (name omime_sniff)
  (synopsis "A short synopsis")
  (description "A longer description")
- (depends ocaml dune base )
+ (depends ocaml dune base stdio )
  (tags
   (topics "to describe" your project)))
 
